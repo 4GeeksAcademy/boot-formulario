@@ -1,0 +1,28 @@
+.card-bar {
+background-color: #6c757d;
+display:inline-flex;
+align-items: center;
+padding: 8px 16px;
+border-radius: 6px;
+max-width: fit-content;
+}
+
+.card-bar .form-check-input {
+    appearance: non;
+    margin: 7px;
+    width: 12px;
+    height: 12px;
+    background-color:gainsboro;
+    border-radius: 20%;
+
+}
+
+.card-bar .btn {
+    display: inline-flex;
+}
+.card-bar .btn i {
+    font-size: 18px;
+}
+.card-bar .form-check {
+    gap: 10px;
+}
